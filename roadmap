@@ -12,9 +12,8 @@ Table: profil: id, titre,contenu, image, auteur
 Accueil
 crée le menu
 
-Login:
-S'authentifier (email ,username, password).
 
+Login:
 Un formulaire pour l'inscription 
 
 Crée un script pour ajouter un login dans la base de données
@@ -24,6 +23,10 @@ Crée un script pour la connexion a la base de donnée
 Crée un script verification des données saisie 
 
 stocker le login dans la base de donnée
+
+
+
+S'authentifier (email ,username, password).
 
 Crée un formulaire de connection 
 
@@ -41,3 +44,6 @@ Un formulaire pour changer l'image de profil.
 Afficher le formulaire pour ajouter un post
 
 Afficher tous les posts de l'utilisateur
+
+
+
