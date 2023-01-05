@@ -10,10 +10,10 @@ Table: login: id, email, username, password, avatar ,couverture
 Table: profil: id, titre,contenu, image, auteur
 
 Accueil
-crée un dossier : header et menu
+crée le menu
 
 Login:
-S'authentifier (email unique, username, password).
+S'authentifier (email ,username, password).
 
 Un formulaire pour l'inscription 
 
