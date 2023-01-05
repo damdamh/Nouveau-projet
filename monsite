@@ -1,0 +1,43 @@
+
+
+
+Road map
+Créer un site qui permet aux utilisateurs de s'authentifier et d'ajouter des posts.
+
+Base de donnée
+Table: login: id, email, username, password, avatar ,couverture 
+
+Table: profil: id, titre,contenu, image, auteur
+
+Accueil
+crée un dossier : header et menu
+
+Login:
+S'authentifier (email unique, username, password).
+
+Un formulaire pour l'inscription 
+
+Crée un script pour ajouter un login dans la base de données
+
+Crée un script pour la connexion a la base de donnée
+
+Crée un script verification des données saisie 
+
+stocker le login dans la base de donnée
+
+Crée un formulaire de connection 
+
+Crée un script pour verifier si l'utilisateur a donné un email et password sont valide
+
+Profil:
+crée un formulaire pour les informations de l'utilisateur id, titre,contenu, image, auteur.
+
+Afficher l'image de couverture de l'utilisateur sinon afficher une image par defaut
+
+Afficher l'avatar de l'utilisateur sinon afficher une image par défaut.
+
+Un formulaire pour changer l'image de profil.
+
+Afficher le formulaire pour ajouter un post
+
+Afficher tous les posts de l'utilisateur
